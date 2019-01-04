@@ -1,21 +1,20 @@
 # Hobby Projects
-##
-###
-####
-#####
-######
+
 ## pathfinder World Builder
 
 The Pathfinder World Builder allows a Dungeon Master to create an entire world from start to finish for a pathfinder campaign. The application is designed to be as inclusive in the design process as the user needs. If they want to store everything, right down to the name of the butcher in a town 200 miles away from the main plot of the story, they are more than welcome to. If they prefer to keep only the main plot points stored, that works just as well.
 
-##### Dungeon Creator
+### Campaign Timeline
+The bread and butter of the application. Ideally the timeline will allow you, as the DM, to run a railroad-ish campaign that still feels completely open sandbox to the players. If things do get too far off track however, thats what the **Dungeon Creator**, **Town Creator**, and **Character Creator** are for. The timeline is easily modifiable so no parts of your story need to be set in stone. 
+
+### Dungeon Creator
 You had a busy week and now you don't have a session prepared? No problem, use the random dungeon creator for your adventurers to go dungeon crawling for the day. Complete with random encounters in *mostly* every room, and lots of loot. Only requires the party level, the number of adventurers, and the estimated time to clear to create the dungeon. A theme can also be chosen for a more immersive experience. Complete with a DM map for you and an adventurers map for them.
 
-##### Town Creator
-The party has made some unexpected decisions, and you now find yourself in need of a town of 200 people? No problem, use the random Town Creator to design a town, complete with a map layout and merhcants. You can even add random story hooks that can take your adventurers to a dungeon.
+### Town Creator
+Has the party made some unexpected decisions, and now you find yourself in desperate need of a town of 600 people? No problem, use the random Town Creator to design a town, complete with a map layout and merchants. You can even add random story hooks that can take your adventurers to a dungeon. The only things required from you are the terrain of the town, the size (village, town, city or capital). Districts of the city can be added or excluded as you see fit.  
 
-###### Character Creator
-Need an NPC on short notice for your adventurers to fight or possibly even team up with? No Problem, input as much information as you'd like into the Character Creator and it will use the optimization level you specify to randomize the rest of the information. the lower the optimization, the more *interesting* the results. Going with max optimization may net you an Orc barbarian that has the potential to break every bone in your adventurers body's. Going with minimum optimization means you might end up with a goblin wizard that only has one arm, and spells that all require a somatic component. 
+### Character Creator
+Need an NPC on short notice for your adventurers to fight or possibly even team up with? No Problem, input as much information as you'd like into the Character Creator and it will use the optimization level you specify to randomize the rest of the information. the lower the optimization, the more *interesting* the results. Going with max optimization may net you an Orc barbarian that has the potential to break every bone in your adventurers body's. Or going with minimum optimization means you might end up with a goblin wizard that only has one arm, and spells that all require a somatic component. 
 
 ## Recaman Sequence
 
