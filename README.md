@@ -4,8 +4,27 @@
 
 The Pathfinder World Builder allows a Dungeon Master to create an entire world from start to finish for a pathfinder campaign. The application is designed to be as inclusive in the design process as the user needs. If they want to store everything, right down to the name of the butcher in a town 200 miles away from the main plot of the story, they are more than welcome to. If they prefer to keep only the main plot points stored, that works just as well.
 
+Getting started is easy. The application will walk you through the initial steps of designing a world, and then filling in the rest is up to you (mostly). The steps to start out with are:
+  - Design The Landscape
+    - Create the world map
+    - assign territories 
+    - create towns, cities and capitals
+  - Create the Pantheon(s) of Gods
+    - choose what sort of magic they are based on
+    - assign gods to alignments
+  - Start a Campaign
+    - Create an Adventure
+    - Create Events for that adventure
+    - Repeat.
+After doing these steps, you can begin to fill in as many details as you fell neccesary. This is where the real rabbit hole begins.     
+
+  "Sure, the adventurers may never go to this town, but just in case, I'll make sure every NPC's rich family history is thuroughly thought out." 
+
+### World Wiki
+The world history allows you to kep track of all the information you have deisgned for your world. anything in the wiki can be referred to in other parts of the application. 
+
 ### Campaign Timeline
-The bread and butter of the application. Ideally the timeline will allow you, as the DM, to run a railroad-ish campaign that still feels completely open sandbox to the players. If things do get too far off track however, thats what the **Dungeon Creator**, **Town Creator**, and **Character Creator** are for. The timeline is easily modifiable so no parts of your story need to be set in stone. 
+Ideally the timeline will allow you, as the DM, to run a railroad-ish campaign that still feels completely open sandbox to the players. If things do get too far off track however, thats what the **Dungeon Creator**, **Town Creator**, and **Character Creator** are for. The timeline is easily modifiable so no parts of your story need to be set in stone. 
 
 ### Dungeon Creator
 You had a busy week and now you don't have a session prepared? No problem, use the random dungeon creator for your adventurers to go dungeon crawling for the day. Complete with random encounters in *mostly* every room, and lots of loot. Only requires the party level, the number of adventurers, and the estimated time to clear to create the dungeon. A theme can also be chosen for a more immersive experience. Complete with a DM map for you and an adventurers map for them.
