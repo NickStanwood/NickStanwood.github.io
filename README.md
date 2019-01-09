@@ -32,19 +32,19 @@ You had a busy week and now you don't have a session prepared? No problem, use t
 
 ### Town Creator
 Has the party made some unexpected decisions, and now you find yourself in desperate need of a town of 600 people? No problem, use the random Town Creator to design a town, complete with a map layout and merchants. You can even add random story hooks that can take your adventurers to a dungeon. The only things required from you are the terrain of the town, the size (village, town, city or capital). Districts of the city can be added or excluded as you see fit.  
--Town Map
+- Town Map
   - one for Adventurers
   - one for the GM
--Government/Royalty
-  -Randomized differently depending on the government/Royalty that is established in the territory
--Merhcants
-  -Blacksmiths
-  -Magic Items
-  -Alchemist
-  -Odds and Sods
--Churches 
-  -Only available if a pantheon of gods has been set up
--Inns
+- Government/Royalty
+  - Randomized differently depending on the government/Royalty that is established in the territory
+- Merhcants
+  - Blacksmiths
+  - Magic Items
+  - Alchemist
+  - Odds and Sods
+- Churches 
+  - Only available if a pantheon of gods has been set up
+- Inns
 
 ### Character Creator
 Need an NPC on short notice for your adventurers to fight or possibly even team up with? No Problem, input as much information as you'd like into the Character Creator and it will use the optimization level you specify to randomize the rest of the information. the lower the optimization, the more *interesting* the results. Going with max optimization may net you an Orc barbarian that has the potential to break every bone in your adventurers body's. Or going with minimum optimization means you might end up with a goblin wizard that only has one arm, and spells that all require a somatic component. 
