@@ -4,7 +4,7 @@
 
 The Pathfinder World Builder allows a Dungeon Master to create an entire world from start to finish for a pathfinder campaign. The application is designed to be as inclusive in the design process as the user needs. If they want to store everything, right down to the name of the butcher in a town 200 miles away from the main plot of the story, they are more than welcome to. If they prefer to keep only the main plot points stored, that works just as well.
 
-Getting started is easy. The application will walk you through the initial steps of designing a world, and then filling in the rest is up to you (mostly). The steps to start out with are:
+Getting started is easy. The application will walk you through the initial steps of designing a world, and then filling in the rest is up to you (mostly).
   - Design The Landscape
     - Create the world map
     - assign territories 
@@ -16,9 +16,10 @@ Getting started is easy. The application will walk you through the initial steps
     - Create an Adventure
     - Create Events for that adventure
     - Repeat.
+    
 After doing these steps, you can begin to fill in as many details as you fell neccesary. This is where the real rabbit hole begins.     
+  >"Sure, the adventurers may never go to this town, but just in case, I'll make sure every NPC's rich family history is thuroughly thought out." 
 
-  "Sure, the adventurers may never go to this town, but just in case, I'll make sure every NPC's rich family history is thuroughly thought out." 
 
 ### World Wiki
 The world history allows you to kep track of all the information you have deisgned for your world. anything in the wiki can be referred to in other parts of the application. 
@@ -31,6 +32,19 @@ You had a busy week and now you don't have a session prepared? No problem, use t
 
 ### Town Creator
 Has the party made some unexpected decisions, and now you find yourself in desperate need of a town of 600 people? No problem, use the random Town Creator to design a town, complete with a map layout and merchants. You can even add random story hooks that can take your adventurers to a dungeon. The only things required from you are the terrain of the town, the size (village, town, city or capital). Districts of the city can be added or excluded as you see fit.  
+-Town Map
+  - one for Adventurers
+  - one for the GM
+-Government/Royalty
+  -Randomized differently depending on the government/Royalty that is established in the territory
+-Merhcants
+  -Blacksmiths
+  -Magic Items
+  -Alchemist
+  -Odds and Sods
+-Churches 
+  -Only available if a pantheon of gods has been set up
+-Inns
 
 ### Character Creator
 Need an NPC on short notice for your adventurers to fight or possibly even team up with? No Problem, input as much information as you'd like into the Character Creator and it will use the optimization level you specify to randomize the rest of the information. the lower the optimization, the more *interesting* the results. Going with max optimization may net you an Orc barbarian that has the potential to break every bone in your adventurers body's. Or going with minimum optimization means you might end up with a goblin wizard that only has one arm, and spells that all require a somatic component. 
