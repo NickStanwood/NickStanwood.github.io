@@ -18,7 +18,7 @@ Getting started is easy. The application will walk you through the initial steps
     - Repeat.
     
 After doing these steps, you can begin to fill in as many details as you fell neccesary. This is where the real rabbit hole begins.     
-  >"Sure, the adventurers may never go to this town, but just in case, I'll make sure every NPC's rich family history is thuroughly thought out." 
+  >Sure, the adventurers may never go to this town, but just in case, I'll make sure every NPC's rich family history is thuroughly thought out. 
 
 
 ### World Wiki
