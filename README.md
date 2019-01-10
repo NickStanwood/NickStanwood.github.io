@@ -24,6 +24,19 @@ After doing these steps, you can begin to fill in as many details as you fell ne
 ### World Wiki
 The world history allows you to kep track of all the information you have deisgned for your world. anything in the wiki can be referred to in other parts of the application. 
 
+### World Map
+The world map is created at the very beginning. It consits of:
+- Geographical Map
+  - Height May
+  - Heat Map
+  - Moisture Map
+  - Biome Map
+- territory Map
+  - Territories
+  - Town / Cities
+  - Roadways
+  - Religions
+
 ### Campaign Timeline
 Ideally the timeline will allow you, as the DM, to run a railroad-ish campaign that still feels completely open sandbox to the players. If things do get too far off track however, thats what the **Dungeon Creator**, **Town Creator**, and **Character Creator** are for. The timeline is easily modifiable so no parts of your story need to be set in stone. 
 
