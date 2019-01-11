@@ -5,13 +5,27 @@
 The Pathfinder World Builder allows a Dungeon Master to create an entire world from start to finish for a pathfinder campaign. The application is designed to be as inclusive in the design process as the user needs. If they want to store everything, right down to the name of the butcher in a town 200 miles away from the main plot of the story, they are more than welcome to. If they prefer to keep only the main plot points stored, that works just as well.
 
 Getting started is easy. The application will walk you through the initial steps of designing a world, and then filling in the rest is up to you (mostly).
-  - Design The Landscape
-    - Create the world map
-    - assign territories 
-    - create towns, cities and capitals
+  - Create the world map
+    - Height Map
+    - Heat Map
+    - Moisture Map
+    - Biome Map (relies on height, heat and moisture)
+    - Mountains
+    - Rivers (relies on moisture and mountains)
   - Create the Pantheon(s) of Gods
-    - choose what sort of magic they are based on
-    - assign gods to alignments
+    - Type of Magic
+    - Alignments
+    - Relationships (who likes/hates who)
+  - Create Races
+   - 
+  - Create Religions
+    - Pantheon or fraction thereof
+    - Beliefs
+    - Races that price the religion
+  - Create Political Map
+    - assign territories (based on rivers and mountains)
+    - create towns, cities and capitals 
+  
   - Start a Campaign
     - Create an Adventure
     - Create Events for that adventure
