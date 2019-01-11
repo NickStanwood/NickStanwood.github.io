@@ -5,7 +5,7 @@
 The Pathfinder World Builder allows a Dungeon Master to create an entire world from start to finish for a pathfinder campaign. The application is designed to be as inclusive in the design process as the user needs. If they want to store everything, right down to the name of the butcher in a town 200 miles away from the main plot of the story, they are more than welcome to. If they prefer to keep only the main plot points stored, that works just as well.
 
 Getting started is easy. The application will walk you through the initial steps of designing a world, and then filling in the rest is up to you (mostly).
-![Image of Flow Chart](https://github.com/NickStanwood/NickStanwood.github.io/blob/master/WorldBuilderFlowChart.png)
+![Image of Flow Chart](NickStanwood.github.io/WorldBuilderFlowChart.png)
 
   - Create the world map
     - Height Map
