@@ -1,6 +1,6 @@
 # Hobby Projects
 
-## pathfinder World Builder
+## Pathfinder World Builder
 
 The Pathfinder World Builder allows a Dungeon Master to create an entire world from start to finish for a pathfinder campaign. The application is designed to be as inclusive in the design process as the user needs. If they want to store everything, right down to the name of the butcher in a town 200 miles away from the main plot of the story, they are more than welcome to. If they prefer to keep only the main plot points stored, that works just as well.
 
@@ -33,7 +33,7 @@ Getting started is easy. The application will walk you through the initial steps
     - Create Events for that adventure
     - Repeat.
     
-After doing these steps, you can begin to fill in as many details as you fell neccesary. This is where the real rabbit hole begins.     
+After doing these steps, you can begin to fill in as many details as you feel neccesary. This is where the real rabbit hole begins.     
   >Sure, the adventurers may never go to this town, but just in case, I'll make sure every NPC's rich family history is thuroughly thought out. 
 
 
