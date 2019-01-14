@@ -18,12 +18,23 @@ Getting started is easy. The application will walk you through the initial steps
     - Type of Magic
     - Alignments
     - Relationships (who likes/hates who)
-  - Create Races
-   - 
   - Create Religions
     - Pantheon or fraction thereof
     - Beliefs
-    - Races that price the religion
+  - Create Races
+   - Stats
+     - Ability Scores
+     - Size
+     - Type
+     - Base Speed
+     - Languages
+     - Racial Traits
+     - Average Height and Age
+   - Physical Description
+   - Prefered Environment
+   - Society Integration Level
+   - Beliefs
+   - Relationships with other Races  
   - Create Political Map
     - assign territories (based on rivers and mountains)
     - create towns, cities and capitals 
@@ -107,7 +118,13 @@ Controlled two model trains that zoomed around a model track. Each train had spe
 # Topco
 
 ## Customer Command Center
+
 The Customer Command Center is a web based application that allows clients of the Topco Oil Analyzer to view the output of their frac pumps from anywhere. 
+
 ## Oil Analyzer DataWarehouse
 
+Stores all the data acquired by the sensor packages. Runs the ML algortihm on this data and sends out updates to the trucks when there is a new algorithm available.
+
 ## Truck Simulator
+
+Allows for testing the UI of the website without needing an actual truck pressent. sends randomized sensor data to the DemonstrationDataWarehouse, so the values do not interfere with the actual truck's data.
