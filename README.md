@@ -22,19 +22,19 @@ Getting started is easy. The application will walk you through the initial steps
     - Pantheon or fraction thereof
     - Beliefs
   - Create Races
-   - Stats
-     - Ability Scores
-     - Size
-     - Type
-     - Base Speed
-     - Languages
-     - Racial Traits
-     - Average Height and Age
-   - Physical Description
-   - Prefered Environment
-   - Society Integration Level
-   - Beliefs
-   - Relationships with other Races  
+    - Stats
+      - Ability Scores
+      - Size
+      - Type
+      - Base Speed
+      - Languages
+      - Racial Traits
+      - Average Height and Age
+    - Physical Description
+    - Prefered Environment
+    - Society Integration Level
+    - Beliefs
+    - Relationships with other Races  
   - Create Political Map
     - assign territories (based on rivers and mountains)
     - create towns, cities and capitals 
