@@ -36,7 +36,14 @@ Getting started is easy. The application will walk you through the initial steps
     - Beliefs
     - Relationships with other Races  
   - Create Political Map
-    - assign territories (based on rivers and mountains)
+    - Assign Regions
+      - Geographic Boundary
+      - Assign Races and Religions (somewhat arbitrary)
+      - No governing body   
+    - Assign territories (based on rivers and mountains)
+      - Race Demographic 
+      - Assign Royalty / Government 
+      - Contained within a Region
     - create towns, cities and capitals 
   
   - Start a Campaign
